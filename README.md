@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Jayasurya</h1>
+<h3 align="center">Learning new things everyday. Solving Problems 🌟</h3>
 
-<!--
-**jsuryakt/jsuryakt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+-  🔭 **I’m currently working on**
+   ####       ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Java-%7C-yellow)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ **Technologies I'm comfortable with -**
+
+    <p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="90" height="70"/> 
+     <img src="https://konpa.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="70"/> 
+  <img src="https://konpa.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="70"/>
+      <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="70"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="70"/>
+      <img src="https://konpa.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="oracle" width="70" height="70"/></p> 
+            </p>
+- 📫 **How to reach me jsuryakt@gmail.com**
+- 👯 **Feel free to connect**
+                       <p align="left">
+<a href="https://twitter.com/jsuryakt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jsuryakt" height="40" width="80" /></a>                             <a href="https://linkedin.com/in/jsuryakt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jsuryakt" height="37" width="70" /></a>
+</p>
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jsuryakt&show_icons=true" alt="jsuryakt" /> -->
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jsuryakt" alt="jsuryakt" /> </p>

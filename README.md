@@ -13,10 +13,11 @@
       <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="70"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="70"/>
       <img src="https://konpa.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="oracle" width="70" height="70"/></p> 
             </p>
-- 📫 **How to reach me jsuryakt@gmail.com**
+- 📫 **How to reach me jsuryakt@gmail.com**<br>
+
 - 👯 **Feel free to connect**
                        <p align="left">
-<a href="https://linkedin.com/in/jsuryakt" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jsuryakt" height="37" width="70" /></a> <a href="https://twitter.com/jsuryakt" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jsuryakt" height="40" width="80" /></a>                            
+<a target="_blank" href="https://linkedin.com/in/jsuryakt"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jsuryakt" height="30" width="50" /></a> <a target="_blank" href="https://twitter.com/jsuryakt" ><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jsuryakt" height="30" width="50" /></a>                            
 </p>
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jsuryakt&show_icons=true" alt="jsuryakt" /> -->
 <br>

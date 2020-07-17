@@ -3,7 +3,7 @@
 
 
 -  🔭 **I’m currently working on**
-   ####       ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Java-%7C-yellow)
+      ####           ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Java-%7C-yellow)
 
 - ⚡ **Technologies I'm comfortable with -**
 
@@ -16,7 +16,7 @@
 - 📫 **How to reach me jsuryakt@gmail.com**
 - 👯 **Feel free to connect**
                        <p align="left">
-<a href="https://twitter.com/jsuryakt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jsuryakt" height="40" width="80" /></a>                             <a href="https://linkedin.com/in/jsuryakt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jsuryakt" height="37" width="70" /></a>
+<a href="https://linkedin.com/in/jsuryakt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jsuryakt" height="37" width="70" /></a> <a href="https://twitter.com/jsuryakt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jsuryakt" height="40" width="80" /></a>                            
 </p>
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jsuryakt&show_icons=true" alt="jsuryakt" /> -->
 <br>

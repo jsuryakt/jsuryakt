@@ -23,10 +23,8 @@
 <p align="left"><a href="https://twitter.com/jsuryakt" target="blank"><img src="https://img.shields.io/twitter/follow/jsuryakt?logo=twitter&style=for-the-badge" alt="jsuryakt" /></a> </p>
 
 <hr/>
-<div>
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jsuryakt&show_icons=true&locale=en&layout=compact" alt="jsuryakt" />
-      <img align="right" src="https://github-readme-stats.vercel.app/api?username=jsuryakt&show_icons=true&locale=en" alt="jsuryakt" />
-</div>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jsuryakt&show_icons=true&locale=en&layout=compact" alt="jsuryakt" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jsuryakt&show_icons=true&locale=en" alt="jsuryakt" />
 
 <!-- <div>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=jsuryakt&" alt="jsuryakt" />

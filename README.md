@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/jsuryakt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jsuryakt" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/jsuryakt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jsuryakt" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jsuryakt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jsuryakt" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/jsuryakt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="jsuryakt" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@jsuryakt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="jsuryakt" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/jsuryakt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jsuryakt" height="30" width="40" /></a>
 </p>
 

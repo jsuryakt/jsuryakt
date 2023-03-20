@@ -8,7 +8,7 @@
 - 📫 How to reach me **jsuryakt@gmail.com**
 
  <a href="https://github.com/jsuryakt" target="blank"><img align="center" src="https://komarev.com/ghpvc/?username=jsuryakt&label=Profile%20views&color=0e75b6&style=flat" alt="jsuryakt" /> </a>
-  <a href="https://peerlist.io/jsuryakt" target="blank"><img align="center" src="https://peerlist-readme-badge.herokuapp.com/api/jsuryakt" alt="jsuryakt" /></a>
+  <a href="https://peerlist.io/jsuryakt" target="blank"><img align="center" src="https://github-readme-badge.peerlist.io/api/jsuryakt" alt="jsuryakt" /></a>
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
